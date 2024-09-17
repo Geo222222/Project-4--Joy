@@ -37,7 +37,7 @@ The main features include:
 - Scikit-learn
 
 ### Usage
-1. Lunch the Streamlit app by running streamlit run app.py.
+1. Lunch the Streamlit app by running "streamlit run app.py" in the terminal.
 2. Select an employee from the sideba to view their details.
 3. Adjust the performance metrics (attendance, task completion, customer service) using the sliders.
 4. View the updated predicted performance score and the employee's performance progress over time. 
